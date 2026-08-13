@@ -6,7 +6,7 @@ Full‑stack & Mobile Developer
 
 I’m a full‑stack and mobile developer, focused on shipping real products end‑to‑end. I work with React Native, Expo, Next.js, Node.js, and TypeScript to build production apps for both the App Store and Google Play, as well as web apps and sites for clients. I care about great UX, performance, and using AI tools to move fast while still keeping codebases clean and maintainable.
 
-* 🌍  I'm currently based in DFW, TX
+* 🌍  I'm currently based in DTW, MI
 * ✉️  You can contact me at [shakeelh5802@gmail.com](mailto:shakeelh5802@gmail.com)
 * 💬  Ask me about I use AI tools heavily in my workflow so I can ship faster and focus more on product and UX than boilerplate code
 
